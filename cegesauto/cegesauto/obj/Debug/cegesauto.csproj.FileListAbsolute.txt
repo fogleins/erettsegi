@@ -1,0 +1,7 @@
+X:\cegesauto\cegesauto\bin\Debug\cegesauto.exe.config
+X:\cegesauto\cegesauto\bin\Debug\cegesauto.exe
+X:\cegesauto\cegesauto\bin\Debug\cegesauto.pdb
+X:\cegesauto\cegesauto\obj\Debug\cegesauto.csprojAssemblyReference.cache
+X:\cegesauto\cegesauto\obj\Debug\cegesauto.csproj.CoreCompileInputs.cache
+X:\cegesauto\cegesauto\obj\Debug\cegesauto.exe
+X:\cegesauto\cegesauto\obj\Debug\cegesauto.pdb
